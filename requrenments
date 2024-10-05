@@ -1,0 +1,5 @@
+
+# Додаткові бібліотеки
+art==5.7          # Для створення ASCII-арту
+pyfiglet==0.8.post1
+windows-curses== 2.3.3
